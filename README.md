@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revati Navgale</h1>
-<h3 align="center">A passionate Data and Business Intelligence Analyst unraveling data mysteries</h3>
+<h3 align="center">A passionate Data and Business Intelligence Analyst unraveling data mysteries!📊</h3>
 
 - 🔭 I’m currently working on **upskilling and learning new tools**
 
