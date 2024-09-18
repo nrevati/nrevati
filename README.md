@@ -1,3 +1,7 @@
+
+![Revati Navgale Cover](./Revati%20Navgale%20Cover.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Revati Navgale</h1>
 <h3 align="center">A passionate Data and Business Intelligence Analyst unraveling data mysteries!📊</h3>
 
