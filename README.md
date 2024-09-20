@@ -5,17 +5,19 @@
 <h1 align="center">Hi 👋, I'm Revati Navgale</h1>
 <h3 align="center">A passionate Data and Business Intelligence Analyst unraveling data mysteries!📊</h3>
 
-- 🔭 I’m currently working on **upskilling and learning new tools**
+- 🔭 I’m currently working on **Data Analytics and Business Intelligence projects.**
 
-- 👯 I’m looking to collaborate on **real world challenges**
+- 🌱 I’m currently learning **how to enhance my expertise in Cloud Technologies (AWS, GCP), and Advanced Data Analysis using SQL, Python, Tableau and Big Data tools. I’m diving deeper into data engineering to broaden my skillset and bring more value to my projects.**
+
+- 👯 I’m looking to collaborate on **real world challenges and projects that harness data to drive informed business decisions and foster innovation.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nrevati](https://github.com/nrevati)
 
-- 💬 Ask me about **Data Analytics, Business Intelligence and Engineering**
+- 💬 Ask me about **Data Analytics, Business Intelligence and Engineering.**
 
-- 📫 How to reach me **nrevati247@gmail.com**
+- 📫 How to reach me: **nrevati247@gmail.com**
 
-- ⚡ Fun fact **A perserverant Vocalist and Instrumentalist**
+- ⚡ Fun fact: **A perserverant Vocalist and Instrumentalist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
