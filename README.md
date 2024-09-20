@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **nrevati247@gmail.com**
 
-- ⚡ Fun fact: **A perserverant Vocalist and Instrumentalist**
+- ⚡ Fun fact: **A perserverant Vocalist and Instrumentalist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
