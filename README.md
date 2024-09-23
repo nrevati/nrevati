@@ -1,5 +1,5 @@
 
-![Revati Navgale Cover](./Revati%20Navgale%20Cover.jpg)
+![Revati Navgale Cover](./Revati%20N%20Cover.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Revati Navgale</h1>
