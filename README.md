@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Analytics and Business Intelligence projects and certifications.**
 
-- 🌱 I’m currently learning **how to enhance my expertise in Advanced Data Analysis using Analytical tools. I’m diving deeper into blending of data analytics with program management to broaden my skillset and bring more value to my projects.**
+- 🌱 I’m currently learning **how to enhance my expertise in advanced Data Analysis using analytical tools. I’m diving deeper into blending of data analytics with program management to broaden my skillset and bring more value to my projects.**
 
 - 👯 I’m looking to collaborate on **real world challenges and projects that harness data to drive informed business decisions and foster innovation.**
 
